@@ -6,6 +6,7 @@ module.exports = {
   //staticDirs: ['../public'],
   addons: [
     '@storybook/addon-links',
+    '@storybook/addon-knobs',
     '@storybook/addon-essentials',
     {
       /**
