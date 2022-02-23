@@ -3,7 +3,7 @@ import Input from "../components/input";
 
 export default {
   title: "Components/Input",
-  //decorators: [withKnobs],
+  decorators: [withKnobs],
   component: Input,
 };
 
