@@ -29,10 +29,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Start Storybook
 
-First, run the development server:
+Run the Storybook server:
 
 ```bash
 yarn storybook 
 ```
 open [http://localhost::6006](http://localhost::6006) you can see Example storybook with tailwind.css in Preview tab 
+
+## Let's Go To Dev Next.js + tailwind + strorybook !!
 
